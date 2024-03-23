@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjaysamuels
-- 👀 I’m interested in transforming the field of Medicine using Apps
-- 🌱 I’m currently learning how to change the world!
-- 💞️ I’m looking to collaborate on Medical Science projects
+- 👀 I’m interested in transforming the field of medicine using AI
+- 🌱 I’m currently learning how I can make a positive impact in this world!
+- 💞️ I’m looking to collaborate on Medical Science and Space projects
 - 📫 How to reach me sanjaysekarsamuel.com
 
 <!---
