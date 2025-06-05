@@ -1,7 +1,7 @@
-# 🚀 Welcome to My Digital Universe! 
+# 🚀 Welcome to My Coding Universe! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello%2C+I'm+Sanjay+Samuel!;Transforming+Medicine+with+AI+%F0%9F%A7%AC;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello%2C+I'm+Sanjay+Samuel!;Transforming+Healthcare+with+AI+%F0%9F%A7%AC;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -75,6 +75,52 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sanjaysamuels&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
+## 🤖 Meet My AI Twin!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+  
+  <br><br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=80&lines=Want+to+chat+with+my+AI+twin%3F+🤖;Experience+AI-powered+conversations!;Get+instant+answers+24%2F7!" alt="AI Twin Typing" />
+  
+  <br><br>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="120">
+        <br><strong>🧠 Neural Networks</strong>
+        <br>Powered by advanced AI algorithms
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="120">
+        <br><strong>💬 Smart Conversations</strong>
+        <br>Natural language processing at its finest
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="120">
+        <br><strong>⚡ Instant Responses</strong>
+        <br>Lightning-fast AI-powered interactions
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <a href="https://sanjai.chart">
+    <img src="https://img.shields.io/badge/🤖_Chat_with_My_AI_Twin-sanjai.chart-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117&color=gradient" alt="AI Twin Chat" />
+  </a>
+  
+  <br><br>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce16c6e5f.gif" width="400">
+  
+  <br>
+  
+  <i>🌟 "Experience the future of AI interaction - my digital twin is ready to assist you with anything from medical AI insights to space exploration discussions!" 🌟</i>
+</div>
+
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
@@ -96,6 +142,5 @@
 </div>
 
 <!---
-sanjaysamuels/sanjaysamuels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+sanjaysamuels/sanjaysamuels is a ✨ special ✨ repository because its `README.md` (this file) appears on your changes.
 --->
