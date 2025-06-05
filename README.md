@@ -108,7 +108,7 @@
   
   <br>
   
-  <a href="https://sanjai.chart">
+  <a href="https://sanjai.chat">
     <img src="https://img.shields.io/badge/🤖_Chat_with_My_AI_Twin-sanjai.chart-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117&color=gradient" alt="AI Twin Chat" />
   </a>
   
